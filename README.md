@@ -48,7 +48,7 @@ This project implements a MATLAB-based simulation to optimize the distribution o
 ## Usage
 
 1. **Configure Simulation Parameters**:
-   - Open the configuration script (`config.m`) and set the following parameters:
+   - Open one of the four (`main.m`) files and set the following parameters:
      - Number of nodes
      - Resource set or random generation range
      - Number of attacks
@@ -57,6 +57,15 @@ This project implements a MATLAB-based simulation to optimize the distribution o
 2. **Run the Simulation**:
    ```matlab
    main
+   ```
+   ```matlab
+   main_vary_Mean
+   ```
+   ```matlab
+   main_vary_R
+   ```
+   ```matlab
+   main_vary_TR
    ```
 
 3. **View Results**:
