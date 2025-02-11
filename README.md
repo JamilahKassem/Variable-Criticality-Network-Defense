@@ -144,9 +144,9 @@ We welcome contributions to improve this project. To contribute:
 
 - Feng, Xiaotao; Zheng, Zizhan; Cansever, Derya; Swami, Ananthram; Mohapatra, Prasant:  
   _"A Signaling Game Model for Moving Target Defense."_  
-  [Link to paper if available](https://example.com)
+  [Link to paper]([https://example.com](https://ieeexplore.ieee.org/document/8057200))
 
-For further questions or support, contact [Your Name](mailto:your.email@example.com).
+For further questions or support, contact [jamil Ahmad Kassem](mailto:jamilahkassem@gmail.com).
 
 ---
 
