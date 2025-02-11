@@ -111,12 +111,9 @@ The simulation allows customization of various parameters:
 
 | Parameter             | Description                                             |
 |-----------------------|---------------------------------------------------------|
-| `numNodes`            | Number of nodes in the network                          |
-| `numResources`        | Total number of resources                               |
-| `criticalityDeviation`| Spread of resource criticalities                        |
-| `numAttacks`          | Number of attacks to simulate                           |
-| `maxResourceValue`    | Maximum criticality value for resources                 |
-| `minResourceValue`    | Minimum criticality value for resources                 |
+| `n`                   | Number of nodes in the network                          |
+| `m`                   | Total number of resources                               |
+| `deviation`           | Spread of resource criticalities                        |
 
 ---
 
